@@ -1,2 +1,7 @@
-# mathematics
-Play with the new math support in Markdown
+# Mathematics
+
+Let's play with the new math support in Markdown:
+
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
